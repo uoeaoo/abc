@@ -1,3 +1,4 @@
-import cupidLogo from './cupidLogo.svg'
+import Match from './Match.png';
+import goBack from './goBack.svg';
 
-export { cupidLogo }
+export { Match, goBack }

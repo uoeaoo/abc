@@ -47,6 +47,12 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<key>UIAppFonts</key>
+	<array>
+  		<string>SF-Pro-Display-Regular.otf</string>
+		<string>Syncopate-Bold.ttf</string>
+		<string>Syncopate-Regular.ttf</string>
+	</array>
 	<false/>
 </dict>
 </plist>

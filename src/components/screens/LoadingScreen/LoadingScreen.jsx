@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, StyleSheet, Text, Image } from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
-import { cupidLogo } from '../../../../assets';
+import { Match } from '../../../../assets';
 import GradientText from './GradientText';
 
 function LoadingScreen() {
@@ -29,6 +29,10 @@ const styles = StyleSheet.create({
 
     text: {
 
+    },
+
+    image: {
+ 
     }
 });
 

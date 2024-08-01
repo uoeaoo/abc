@@ -30,10 +30,9 @@ export const GradientText = ({ text }) => {
     },
     maskedText: {
       fontSize: 50,
-
       textAlign: 'center',
       color: 'black', 
-      fontFamily: 'Syncopate-Bold.ttf'
+      fontFamily: 'Syncopate-Bold'
     },
     gradient: {
       
